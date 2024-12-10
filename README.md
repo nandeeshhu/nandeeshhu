@@ -7,7 +7,7 @@
 
 ### 🌟 About Me:
 - 🎓 M.Tech in Data Science at **IIT Guwahati**  
-- 💡 Passionate about **Machine Learning**, **Deep Learning**, and **AI Research**  
+- 💡 Passionate about **Machine Learning**, **Deep Learning**, **AI Research** and **DSA - Problem Solving**.
 - 🏆 **GATE CSE AIR 905 (98.80 percentile)**  
 - 🏅 Awarded **Best Project of the Year** by KSCST - IISc Bangalore
 - 🏅 Awarded **Best Outgoing Student of the Year** by JNNCE Shimoga, Karnataka  
